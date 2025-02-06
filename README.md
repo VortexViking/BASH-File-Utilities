@@ -1,5 +1,5 @@
 # BASH-File-Utilities
-A single script for managing files
+Multiple scripts for managing files.
 
 
 # Contents
