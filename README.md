@@ -14,7 +14,7 @@ Allows you to manage files with ease and manage tasks such as:
 - Deleting
 - Renaming
 - Zipping
-- UNzipping 
+- Unzipping 
 
 And more!
 
@@ -22,5 +22,5 @@ And more!
 
 Currently as of relase 1.0a we have
 
-- Bulk Rename
-- Bulk Delete
+- Bulk Rename of Files
+- Bulk Delete of Files
