@@ -1,11 +1,5 @@
 #! bin/bash
 
-#!/bin/bash
-
-# Ask for a command from the user
-echo "Enter command (e.g., rename, delete, backup):"
-read command
-
 # Bare bones logic to handle commands
 if [ "$command" == "rename" ]; then
   # Placeholder for renaming logic

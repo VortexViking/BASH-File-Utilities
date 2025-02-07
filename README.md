@@ -1,5 +1,5 @@
 # BASH-File-Utilities
-A single script for managing files
+Multiple scripts for managing files.
 
 
 # Contents
@@ -22,5 +22,8 @@ And more!
 
 Currently as of relase 1.0a we have
 
+
 - Bulk Rename of Files
 - Bulk Delete of Files
+- Bulk Rename
+- Bulk Delete
