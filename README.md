@@ -20,10 +20,9 @@ And more!
 
 # Latest Release
 
-Currently as of relase 1.0a we have
-
+Currently as of relase 1.1 we have
 
 - Bulk Rename of Files
 - Bulk Delete of Files
-- Bulk Rename
-- Bulk Delete
+- Bulk Backup
+
